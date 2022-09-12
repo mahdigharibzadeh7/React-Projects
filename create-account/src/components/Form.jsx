@@ -29,10 +29,14 @@ const formItems = [
   },
 ];
 
-const Form = () => {
+const Form = (props) => {
+  const inputCheck = (text) => {
+    props.inputText(text);
+  };
+
   return (
     <div className="form-container">
-      <form action="">
+      <form>
         <div className="input-container">
           {formItems.map((item) => {
             return (
@@ -42,6 +46,7 @@ const Form = () => {
                 inLabel={item.inLabel}
                 inputType={item.type}
                 icon={item.icon}
+                inputValue={inputCheck}
               />
             );
           })}

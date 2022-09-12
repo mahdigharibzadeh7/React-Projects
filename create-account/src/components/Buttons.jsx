@@ -1,15 +1,9 @@
-import React, { useState } from "react";
-import Modal from "./Modal";
+import React from "react";
 
 const Buttons = (props) => {
-  const [modalState, setModalState] = useState(false);
-  const btnHandler = () => {
-    setModalState(!modalState);
-  };
   return (
-    <button onClick={btnHandler} className={props.cName}>
+    <button onClick={props.modal} className={props.cName}>
       {props.inButton}
-      {/* <Modal /> */}
     </button>
   );
 };
