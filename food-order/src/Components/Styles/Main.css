@@ -54,8 +54,10 @@
 }
 
 .main-btn:hover {
-  @apply bg-white
-  text-black;
+  @apply border
+  border-[#FFDC60]
+  bg-transparent
+  text-[#FFDC60];
 }
 
 .main-img {

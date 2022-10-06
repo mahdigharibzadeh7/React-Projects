@@ -41,11 +41,22 @@
   text-[#1e1e1e];
 }
 
+.sign-in:hover{
+  @apply text-[#1867FE]
+}
+
 .sign-up {
   @apply bg-[#1867FE]
   ml-3
   px-3
   xl:px-5;
+}
+
+.sign-up:hover{
+  @apply text-[#1867FE]
+  bg-transparent
+  border
+  border-[#1867FE]
 }
 
 #menu__toggle {

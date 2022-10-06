@@ -84,6 +84,8 @@ to-cyan-50
 }
 
 .add-to-cart-btn:hover {
-  @apply bg-white
-  text-[#1E1E1E];
+  @apply border
+  border-[#FFDC60]
+  bg-transparent
+  text-[#FFDC60];
 }
