@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Projects/create-account/static/css/main.29895306.css",
-    "main.js": "/React-Projects/create-account/static/js/main.1072aa92.js",
-    "static/js/787.16326d12.chunk.js": "/React-Projects/create-account/static/js/787.16326d12.chunk.js",
-    "static/media/picture.jpg": "/React-Projects/create-account/static/media/picture.9d281ccc693fbfe2ceac.jpg",
-    "index.html": "/React-Projects/create-account/index.html",
-    "main.29895306.css.map": "/React-Projects/create-account/static/css/main.29895306.css.map",
-    "main.1072aa92.js.map": "/React-Projects/create-account/static/js/main.1072aa92.js.map",
-    "787.16326d12.chunk.js.map": "/React-Projects/create-account/static/js/787.16326d12.chunk.js.map"
+    "main.css": "/create-account/static/css/main.8a4e4213.css",
+    "main.js": "/create-account/static/js/main.fe0d72d3.js",
+    "static/js/787.16326d12.chunk.js": "/create-account/static/js/787.16326d12.chunk.js",
+    "static/media/picture.jpg": "/create-account/static/media/picture.9d281ccc693fbfe2ceac.jpg",
+    "index.html": "/create-account/index.html",
+    "main.8a4e4213.css.map": "/create-account/static/css/main.8a4e4213.css.map",
+    "main.fe0d72d3.js.map": "/create-account/static/js/main.fe0d72d3.js.map",
+    "787.16326d12.chunk.js.map": "/create-account/static/js/787.16326d12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29895306.css",
-    "static/js/main.1072aa92.js"
+    "static/css/main.8a4e4213.css",
+    "static/js/main.fe0d72d3.js"
   ]
 }
